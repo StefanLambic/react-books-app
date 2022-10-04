@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-books-app/static/css/main.246a8e26.css",
+    "main.js": "/react-books-app/static/js/main.87c316d6.js",
+    "static/media/bg3.jpg": "/react-books-app/static/media/bg3.0ec80e13352c7a37f07c.jpg",
+    "index.html": "/react-books-app/index.html",
+    "main.246a8e26.css.map": "/react-books-app/static/css/main.246a8e26.css.map",
+    "main.87c316d6.js.map": "/react-books-app/static/js/main.87c316d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.246a8e26.css",
+    "static/js/main.87c316d6.js"
+  ]
+}
